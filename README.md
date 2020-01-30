@@ -26,8 +26,8 @@
   - [Aegis Configurations](#aegis-configurations)
     - [Database Configs](#database-configs)
     - [API Configs](#api-configs)
-  - [Logging Configs](#logging-configs)
-  - [AWS Configs](#aws-configs)
+    - [Logging Configs](#logging-configs)
+    - [AWS Configs](#aws-configs)
   - [Full Configuration File](#full-configuration-file)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
