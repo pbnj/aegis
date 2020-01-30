@@ -148,7 +148,7 @@ aegis -config app.json -cpath /path/to/config/directory
 - `ui_location` (optional): The URL that the API lies at (used to check the origin header of HTTP requests)
 - `path_to_aegis` (**required**): The path where the Aegis system is stored
 
-### Logging Configs
+#### Logging Configs
 
 - `logpath`: The path at which the logs are stored
 - `log_to_console`: Boolean controlling whether logs are printed to the console
@@ -157,7 +157,7 @@ aegis -config app.json -cpath /path/to/config/directory
 - `log_no_delete`: Boolean controlling whether logs stored in files are deleted after a day
 - `debug`: Boolean controlling whether debug logs are processed
 
-### AWS Configs
+#### AWS Configs
 
 - `key_id` (**required**): The ID of the (symmetric) KMS key that is used for the encryption
 - `kms_region` (**required**): The region (e.g. `us-east-1`/`us-west-1)` that the KMS key lies in
